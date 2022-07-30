@@ -1,20 +1,29 @@
 # kottans-frontend
 # Stage 0 
 
-## General  
+<details>
+<summary>General</summary> 
 
- - [ ] [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)  
- - [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)  
+- [X] [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)  
+- [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)  
 - [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)  
 
-## Front-End Basics
+</details>   
+
+<details>
+<summary>Front-End Basic</summary> 
+
 - [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)  
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)  
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)  
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)  
-- [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)  
+- [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) 
 
-## Advanced Topics  
+</details>   
+
+<details>
+<summary>Advanced Topics</summary>  
+
 - [ ] [Building a Tiny JS World](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)  
 - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)  
 - [ ] [OOP exercise](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md)  
@@ -23,9 +32,11 @@
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-performance.md)  
 - [ ] [Friends App](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md)  
 
+</details>
+
 <br>  
 
-### Git Basics  
+## Git Basics  
 Previously passed a course from Udacity so it was easy to pass this one from Coursera. Also, it helped me to refresh my knowledge in Git because i didn't use it since passing the previous one.  
 After that I consolidated my knowledge with Learn Git Branching course. It was really interesting and even fun to pass every stage :smiley:  
  
