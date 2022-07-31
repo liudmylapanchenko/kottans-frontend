@@ -37,7 +37,7 @@
 <br>  
 
 ## Git Basics  
-Previously passed a course from Udacity so it was easy to pass this one from Coursera. Also, it helped me to refresh my knowledge in Git because i didn't use it since passing the previous one.  
+Previously passed a course from Udacity so it was easy to pass this one from Coursera. Also, it helped me to refresh my knowledge in Git because i didn't use it since passing the previous one. Also, from this cource I lerned new information about diff and patch.  
 After that I consolidated my knowledge with Learn Git Branching course. It was really interesting and even fun to pass every stage :smiley:  
  
 <details>
