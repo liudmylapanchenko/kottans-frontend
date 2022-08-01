@@ -47,4 +47,42 @@ After that I consolidated my knowledge with Learn Git Branching course. It was r
 <br>
 
 ![Learn Git Branching course Basics](./images/git-remote-repo.png) 
-</details>
+</details>  
+<br>
+
+## Linux CLI, and HTTP  
+<details>
+<summary>Screenshots</summary>
+
+![Linux Survival Module 1](./task_linux_cli/linux1.png)  
+<br>
+
+![Linux Survival Quiz 1](./task_linux_cli/linux1-quiz.png)  
+<br>  
+
+![Linux Survival Module 2](./task_linux_cli/linux2.png)  
+<br>  
+
+![Linux Survival Quiz 2](./task_linux_cli/linux2-quiz.png)  
+<br>   
+
+![Linux Survival Module 3](./task_linux_cli/linux3.png)  
+<br>  
+
+![Linux Survival Quiz 3](./task_linux_cli/linux3-quiz.png)  
+<br>  
+
+![Linux Survival Module 4](./task_linux_cli/linux4.png)  
+<br>   
+
+![Linux Survival Quiz 4](./task_linux_cli/linux4-quiz.png)  
+<br>  
+</details>  
+<br>  
+
+Thanks to Linux Survival course, I learned a lot of commands that will be really helpful for me in using command line. During the first module I found out what I need to do to create directories and files, view theirs contents, move files within directories and rename them, change directory and check what directory I'm currently in.  
+Knowledge getting from the second module will allow me to work with command line more effectively and fast. I learned how to avoid extra work by writing a path for commands, how to copy and remove files and directories and some security concepts.  
+From the third module I found out what is the home directory and how to get there, learned some information about manual pages, how to find user info and files, how to combine files and send this info to screen, other file or print.  
+The fourth module taught me how to copy other owner’s directory to my home directory, remove not empty directory, view statistics of all the discs on my system and particular one, check where the disks reside in my file system tree. Also, I had opportunity to compare Windows and Linux file system structure, got information how to examine running programs, use pipe and grep and kill process.  
+Summing up, I find this course useful and I will try to keep in mind all things I found out from it. Also, I must say, that some topics from third and fourth modules were quite challenging for me, while the first and second ones were pretty clear and easy to remember.  
+<br>  
