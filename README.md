@@ -5,8 +5,8 @@
 <summary>General</summary> 
 
 - [X] [Git Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-intro.md)  
-- [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)  
-- [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)  
+- [X] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)  
+- [X] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/2022_UA/tasks/git-collaboration.md)  
 
 </details>   
 
@@ -89,3 +89,30 @@ Summing up, I find this course useful and I will try to keep in mind all things 
 I don’t have any technical background, so almost all information in these articles was new for me 🙂  
 I understood what are HTTP, HTTPS and TCP protocols, how they work and how URL is built. Furthermore, I found out what is an HTTP requests and responses, how they are built and how they work. Found out what status codes could be and what they mean. I got more understanding how a client and a server cooperate, how connections between them install. I was surprised that there are two types of authentication and that it could be public cache, not only private.  
 It’s hard for me to say how I can use this information in progress, but I assume the general understanding of this concept is important. Also, it was interesting to get better understanding of these protocols because I use them on a daily basis.
+</details>  
+
+<br>  
+
+## Git Collaboration  
+Since I already passed the Git cource from Udacity, not all the info on this course was new for me. Still there were some possibilities and instruments that I didn't know previously. For example, I uses token for autorisation in Git, but on this cource I found out that there was an option to create a ssh key as well. Also, I learn what command I sould use to get info about origin. I was surprised that I can use -u instead of --set-upstream while pushing to remote repo and that I could edit the commit throught the github interface what is useful for small changes. Also, I got more information about squashing changes and forcing pushes and got acquainted with tracking issues and CI/CD.  
+<details>
+<summary>Screenshots</summary>
+
+![Coursera Git Week 3](./task_git_collaboration/week3.png)  
+<br>
+
+![Coursera Git Week 4](./task_git_collaboration/week4.png) 
+</details>  
+
+<br> 
+I passed entire Learn Git Branching course in the Git Basics phase, so I'm attaching the same screenshots.  
+<details>
+<summary>Screenshots</summary>
+
+![Learn Git Branching course Basics](./task_git_collaboration/git-basics.png)  
+
+<br>
+
+![Learn Git Branching course Basics](./task_git_collaboration/git-remote-repo.png) 
+
+</details> 
